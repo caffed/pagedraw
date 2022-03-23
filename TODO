@@ -1,0 +1,7 @@
+MODERNIZE:
+- migrate from coffeescript to typescript
+- support >= Node LTS
+- support react 17.x ecosystem
+- tests pass
+- run locally
+
